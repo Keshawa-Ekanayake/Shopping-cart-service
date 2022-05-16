@@ -1,0 +1,19 @@
+{
+  "name": "shopping-cart-service",
+  "version": "1.0.0",
+  "description": "shopping cart service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "keshawa ekanayake",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.2"
+  }
+}
